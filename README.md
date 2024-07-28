@@ -1,5 +1,6 @@
 ### NODEJS Project Template
----
+
+```
 node_modules
 ├── config
 │   ├── config.json
@@ -34,9 +35,7 @@ node_modules
 ├── package.json
 └── README.md
 
-
----
-
+```
 
 ---
 
